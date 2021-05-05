@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LB8L3vqMxmfLjjjI6raY6zXEXOwevfH2HlZZ1tK2CQeET8OTUlXyTAdPuk12imkR9VfWwOoejvu+EYIIvtIUYg==",
+  "success": true,
+  "projectFilePath": "C:\\FALCOR\\example-repo\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mbussing\\AppData\\Roaming\\ThirdParty\\NuGet\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
