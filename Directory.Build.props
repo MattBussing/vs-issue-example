@@ -1,6 +1,0 @@
-<Project>
-    <PropertyGroup>
-        <MSBuildWarningsAsErrors>MSB3276;MSB3247;MSB3277;NU1605;MSB3245;MSB3243</MSBuildWarningsAsErrors>
-        <WarningsAsErrors>MSB3276;MSB3247;MSB3277;NU1605;MSB3245;MSB3243</WarningsAsErrors>
-    </PropertyGroup>
-</Project>
